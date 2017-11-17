@@ -1,0 +1,14 @@
+#memory-container {
+	width: 100%;
+	background-color: rgba(150, 50, 0, 1);
+}
+
+#memory-image {
+	height: 200px;
+	width: 200px;
+	float: right;
+}
+
+#memory-timestamp {
+	clear: both;
+}
